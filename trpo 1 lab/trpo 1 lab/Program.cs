@@ -11,7 +11,7 @@ namespace trpo_1_lab
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Oh,tupo BAN,Mark");
+            Console.WriteLine("Oh,tupo         BAN,Mark");
             Console.ReadKey();
         }
     }
