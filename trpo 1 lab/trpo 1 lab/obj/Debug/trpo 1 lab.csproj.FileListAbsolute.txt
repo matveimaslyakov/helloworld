@@ -1,0 +1,7 @@
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\bin\Debug\trpo 1 lab.exe.config
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\bin\Debug\trpo 1 lab.exe
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\bin\Debug\trpo 1 lab.pdb
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\obj\Debug\trpo 1 lab.csprojAssemblyReference.cache
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\obj\Debug\trpo 1 lab.csproj.CoreCompileInputs.cache
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\obj\Debug\trpo 1 lab.exe
+C:\Users\matve\Desktop\trpo\lab1\trpo 1 lab\trpo 1 lab\obj\Debug\trpo 1 lab.pdb
